@@ -1,0 +1,27 @@
+.Dropdown{
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+}
+.ListDrop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Iconedrop{
+    padding: 0px 10px;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.SubTotal{
+    display: flex;
+    border-top: 0.1px solid gray;
+    align-items: center;
+    justify-content: center;
+}
+.SubTotal > span{
+    font-size: 16px;
+    font-weight: 700;
+}

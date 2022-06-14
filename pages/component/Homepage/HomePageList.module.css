@@ -1,0 +1,9 @@
+.Row{
+    padding: 10px 0px;
+    border-bottom: 0.1px solid grey;
+}
+.ViewList{
+    display: flex;
+    text-align: end;
+    justify-content: end;
+}
